@@ -1,6 +1,5 @@
 # Aplikasi SeWo by Enterprise
 
-Sewo (sewa co-working) dibuat dengan tujuan untuk memudahkan masyarakat menggali informasi perihal lokasi, biaya sewa hingga fasilitas co-working space yang ada di sekitar mereka..
+SeWo (Search Co-Workinf) merupakan platform digital yang dibuat untuk memberikan layanan/jasa kepada masyarakat agar dapat menggali informasi perihal lokasi, biaya sewa, hingga fasilitas Co-Working Space yang diinginkan dengan sistem Booking berbasis Social Finance Syariah.
 
-## UI:
 ![SeWo Thumbnails](https://drive.google.com/file/d/1JV_ddMdfqo8RoZVTZm1z8utkdY0ereB_/view?usp=sharing)

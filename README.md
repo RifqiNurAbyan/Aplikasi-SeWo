@@ -1,6 +1,4 @@
-# Aplikasi Sewo by Rifqi Nur Abyan
+# Aplikasi SeWo by Enterprise
 
-This application is a Gojek clone using Flutter.
+Aplikasi ini adalah untuk.
 
-## UI:
-(https:/https://github.com/RifqiNurAbyan/Aplikasi-SeWo.git)
